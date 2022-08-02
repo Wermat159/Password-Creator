@@ -39,5 +39,6 @@
 `python Password-Generator.py`
 
 ## TODO
-- [] Add feature to generate password with "default" values
-- [] Add feature to make easily memorizable and readable passwords
+- [ ] Add feature to generate password with "default" values
+- [ ] Add feature to generate multiple passwords at once
+- [ ] Add feature to make easily memorizable and readable passwords
